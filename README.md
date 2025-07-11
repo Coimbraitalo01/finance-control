@@ -1,35 +1,32 @@
-# 💰 Controle Financeiro
+# 💰 Controle Financeiro Pessoal
 
-Aplicação simples e funcional de controle financeiro pessoal, desenvolvida com **React + Vite**, para registrar entradas e saídas, calcular saldo total e organizar suas finanças de forma prática e moderna.
+![Preview da Aplicação](https://raw.githubusercontent.com/Coimbraitalo01/finance-control/main/public/Preview.png?raw=true)
 
-## 🖼️ Preview: https://github.com/Coimbraitalo01/finance-control/blob/main/public/Preview.png
+Aplicação completa para gerenciamento financeiro pessoal desenvolvida com **React + Vite**, permitindo controle total sobre entradas, saídas e saldo.
 
-## 🚀 Funcionalidades
+🔗 [Acesse a aplicação online](https://coimbraitalo01.github.io/finance-control/)
 
-- ✅ Cadastro de transações (entradas e saídas)
-- ✅ Cálculo automático do saldo total
-- ✅ Listagem dinâmica de lançamentos
-- ✅ Remoção de transações
-- ✅ Layout moderno e responsivo
+## ✨ Funcionalidades Principais
 
-## 🛠️ Tecnologias Utilizadas
+- 📊 Registro de transações (entradas e saídas)
+- 🧮 Cálculo automático de saldo
+- 🔄 Histórico organizado por data
+- 🗑️ Exclusão de lançamentos
+- 📱 Design responsivo (mobile-first)
+- 🌗 Modo claro/escuro
 
-- [React](https://reactjs.org)
-- [Vite](https://vitejs.dev)
-- [CSS Modules](https://github.com/css-modules/css-modules)
-- [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+## 🛠️ Stack Tecnológica
 
-## 📦 Como instalar e rodar o projeto
+| Tecnologia | Descrição |
+|------------|-----------|
+| [React](https://reactjs.org/) | Componentização |
+| [Vite](https://vitejs.dev/) | Build tool |
+| [CSS Modules](https://github.com/css-modules/css-modules) | Estilos isolados |
+| [Date-fns](https://date-fns.org/) | Manipulação de datas |
+| [React Icons](https://react-icons.github.io/react-icons/) | Ícones |
 
+## 🚀 Como Executar Localmente
+
+1. Clone o repositório:
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/finance-control.git
-
-# Acesse a pasta do projeto
-cd finance-control
-
-# Instale as dependências
-npm install
-
-# Rode o projeto localmente
-npm run dev
+git clone https://github.com/Coimbraitalo01/finance-control.git
